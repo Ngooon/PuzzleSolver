@@ -1,0 +1,5 @@
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\Builds\480\PuzzleSolver.exe
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\Builds\480\PuzzleSolver.dll
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\Builds\480\PuzzleSolver.deps.json
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\Builds\480\PuzzleSolver.runtimeconfig.json
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\Builds\480\PuzzleSolver.pdb

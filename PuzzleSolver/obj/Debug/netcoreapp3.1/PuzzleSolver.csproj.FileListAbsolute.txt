@@ -1,0 +1,13 @@
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.exe
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.deps.json
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.runtimeconfig.json
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.runtimeconfig.dev.json
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.dll
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\bin\Debug\netcoreapp3.1\PuzzleSolver.pdb
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.csprojAssemblyReference.cache
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.AssemblyInfoInputs.cache
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.AssemblyInfo.cs
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.csproj.CoreCompileInputs.cache
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.dll
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.pdb
+G:\Personligt\Oscar\Teknik\GitHub\PuzzleSolver\PuzzleSolver\obj\Debug\netcoreapp3.1\PuzzleSolver.genruntimeconfig.cache
